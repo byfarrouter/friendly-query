@@ -1,1 +1,3 @@
-UPDATE [dbo].[cabal_character_table] SET [STR] = 127 WHERE [CharacterIdx] = 48736
+{
+  "url": "UPDATE [dbo].[cabal_character_table] SET [STR] = 127 WHERE [CharacterIdx] = 48736"
+}
